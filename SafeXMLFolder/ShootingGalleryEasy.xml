@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<GameObjects>
+<Target>
+	<position x="-10" y="5" z="-5">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="-10" y="3" z="-5">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="-12" y="3" z="-5">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="-12" y="5" z="-5">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="10" y="4" z="-10">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="10" y="3" z="-10">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="9" y="3" z="-10">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="9" y="4" z="-10">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="3" y="8" z="-15">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="2" y="8" z="-15">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="1" y="8" z="-15">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="2" y="9" z="-15">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="-3" y="2" z="-3">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="3" y="9" z="-6">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="4" y="2" z="-9">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="3" y="9" z="-25">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+</GameObjects>

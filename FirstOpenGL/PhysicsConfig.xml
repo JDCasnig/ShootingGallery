@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<PhysicsEngine name="JPhysics">
+	<Gravity x="0" y="-10" z="0">
+	</Gravity>
+</PhysicsEngine>
+

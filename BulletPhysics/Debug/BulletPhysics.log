@@ -1,0 +1,351 @@
+﻿  btVector3.cpp
+  btThreads.cpp
+  btSerializer.cpp
+  btQuickprof.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btquickprof.cpp(221): warning C4244: '*=': conversion from 'double' to 'LONGLONG', possible loss of data
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btquickprof.cpp(290): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+  btPolarDecomposition.cpp
+  btGeometryUtil.cpp
+  btConvexHullComputer.cpp
+  btConvexHull.cpp
+  btAlignedAllocator.cpp
+  btSoftSoftCollisionAlgorithm.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btSoftRigidDynamicsWorld.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btSoftRigidCollisionAlgorithm.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btSoftMultiBodyDynamicsWorld.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btSoftBodyRigidBodyCollisionConfiguration.cpp
+  btSoftBodyHelpers.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btSoftBodyConcaveCollisionAlgorithm.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btSoftBody.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletsoftbody\btsoftbody.cpp(3088): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+  btDefaultSoftBodySolver.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  MultiBodyTree.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletinversedynamics\details\idlinearmathinterface.hpp(46): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletinversedynamics\multibodytree.cpp(236): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+  IDMath.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletinversedynamics\details\idlinearmathinterface.hpp(46): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletinversedynamics\idmath.cpp(218): warning C4244: 'initializing': conversion from 'double' to 'idScalar', possible loss of data
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletinversedynamics\idmath.cpp(218): warning C4244: 'initializing': conversion from 'double' to 'const idScalar', possible loss of data
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletinversedynamics\idmath.cpp(378): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletinversedynamics\idmath.cpp(414): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+  Generating Code...
+  Compiling...
+  MultiBodyTreeInitCache.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletinversedynamics\details\idlinearmathinterface.hpp(46): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+  MultiBodyTreeImpl.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletinversedynamics\details\idlinearmathinterface.hpp(46): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletinversedynamics\details\multibodytreeimpl.cpp(23): warning C4305: '=': truncation from 'double' to 'idScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletinversedynamics\details\multibodytreeimpl.cpp(742): warning C4244: 'argument': conversion from 'const double' to 'const idScalar', possible loss of data
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletinversedynamics\details\multibodytreeimpl.cpp(767): warning C4244: 'argument': conversion from 'const double' to 'const idScalar', possible loss of data
+  btWheelInfo.cpp
+  btRaycastVehicle.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btMLCPSolver.cpp
+  btLemkeAlgorithm.cpp
+  btDantzigLCP.cpp
+  btMultiBodySliderConstraint.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\featherstone\btmultibodysliderconstraint.cpp(209): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\featherstone\btmultibodysliderconstraint.cpp(215): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\featherstone\btmultibodysliderconstraint.cpp(222): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\featherstone\btmultibodysliderconstraint.cpp(228): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+  btMultiBodyPoint2Point.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\featherstone\btmultibodypoint2point.cpp(200): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\featherstone\btmultibodypoint2point.cpp(206): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\featherstone\btmultibodypoint2point.cpp(213): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\featherstone\btmultibodypoint2point.cpp(219): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+  btMultiBodyJointMotor.cpp
+  btMultiBodyJointLimitConstraint.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\featherstone\btmultibodyjointlimitconstraint.cpp(114): warning C4244: 'initializing': conversion from 'int' to 'btScalar', possible loss of data
+  btMultiBodyFixedConstraint.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\featherstone\btmultibodyfixedconstraint.cpp(190): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\featherstone\btmultibodyfixedconstraint.cpp(196): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\featherstone\btmultibodyfixedconstraint.cpp(203): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\featherstone\btmultibodyfixedconstraint.cpp(209): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+  btMultiBodyDynamicsWorld.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\featherstone\btmultibodydynamicsworld.cpp(826): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\featherstone\btmultibodydynamicsworld.cpp(834): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+  btMultiBodyConstraintSolver.cpp
+  btMultiBodyConstraint.cpp
+  btMultiBody.cpp
+  btSimulationIslandManagerMt.cpp
+  btSimpleDynamicsWorld.cpp
+  btRigidBody.cpp
+  btDiscreteDynamicsWorldMt.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  Generating Code...
+  Compiling...
+  btDiscreteDynamicsWorld.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btUniversalConstraint.cpp
+  btTypedConstraint.cpp
+  btSolve2LinearConstraint.cpp
+  btSliderConstraint.cpp
+  btSequentialImpulseConstraintSolver.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btPoint2PointConstraint.cpp
+  btNNCGConstraintSolver.cpp
+  btHingeConstraint.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\constraintsolver\bthingeconstraint.cpp(320): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+  btHinge2Constraint.cpp
+  btGeneric6DofSpringConstraint.cpp
+  btGeneric6DofSpring2Constraint.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\constraintsolver\btgeneric6dofspring2constraint.cpp(786): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+  btGeneric6DofConstraint.cpp
+  btGearConstraint.cpp
+  btFixedConstraint.cpp
+  btContactConstraint.cpp
+  btConeTwistConstraint.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\constraintsolver\btconetwistconstraint.cpp(868): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\constraintsolver\btconetwistconstraint.cpp(913): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\constraintsolver\btconetwistconstraint.cpp(973): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\constraintsolver\btconetwistconstraint.cpp(975): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+  btKinematicCharacterController.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\character\btkinematiccharactercontroller.cpp(142): warning C4305: '=': truncation from 'double' to 'btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\character\btkinematiccharactercontroller.cpp(152): warning C4305: '=': truncation from 'double' to 'btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletdynamics\character\btkinematiccharactercontroller.cpp(161): warning C4305: '=': truncation from 'double' to 'btScalar'
+  btVoronoiSimplexSolver.cpp
+  btSubSimplexConvexCast.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  Generating Code...
+  Compiling...
+  btRaycastCallback.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btPolyhedralContactClipping.cpp
+  btPersistentManifold.cpp
+  btMinkowskiPenetrationDepthSolver.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btGjkPairDetector.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletcollision\narrowphasecollision\btgjkpairdetector.cpp(38): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+  btGjkEpaPenetrationDepthSolver.cpp
+  btGjkEpa2.cpp
+  btGjkConvexCast.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btConvexCast.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btContinuousConvexCollision.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  gim_tri_collision.cpp
+  gim_memory.cpp
+  gim_contact.cpp
+  gim_box_set.cpp
+  btTriangleShapeEx.cpp
+  btGImpactShape.cpp
+  btGImpactQuantizedBvh.cpp
+  btGImpactCollisionAlgorithm.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btGImpactBvh.cpp
+  btGenericPoolAllocator.cpp
+  Generating Code...
+  Compiling...
+  btContactProcessing.cpp
+  btUniformScalingShape.cpp
+  btTriangleMeshShape.cpp
+  btTriangleMesh.cpp
+  btTriangleIndexVertexMaterialArray.cpp
+  btTriangleIndexVertexArray.cpp
+  btTriangleCallback.cpp
+  btTriangleBuffer.cpp
+  btTetrahedronShape.cpp
+  btStridingMeshInterface.cpp
+  btStaticPlaneShape.cpp
+  btSphereShape.cpp
+  btShapeHull.cpp
+  btScaledBvhTriangleMeshShape.cpp
+  btPolyhedralConvexShape.cpp
+  btOptimizedBvh.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btMultiSphereShape.cpp
+  btMultimaterialTriangleMeshShape.cpp
+  btMinkowskiSumShape.cpp
+  btHeightfieldTerrainShape.cpp
+  Generating Code...
+  Compiling...
+  btEmptyShape.cpp
+  btCylinderShape.cpp
+  btConvexTriangleMeshShape.cpp
+  btConvexShape.cpp
+  btConvexPolyhedron.cpp
+  btConvexPointCloudShape.cpp
+  btConvexInternalShape.cpp
+  btConvexHullShape.cpp
+  btConvex2dShape.cpp
+  btConeShape.cpp
+  btConcaveShape.cpp
+  btCompoundShape.cpp
+  btCollisionShape.cpp
+  btCapsuleShape.cpp
+  btBvhTriangleMeshShape.cpp
+  btBoxShape.cpp
+  btBox2dShape.cpp
+  SphereTriangleDetector.cpp
+  btUnionFind.cpp
+  btSphereTriangleCollisionAlgorithm.cpp
+  Generating Code...
+  Compiling...
+  btSphereSphereCollisionAlgorithm.cpp
+  btSphereBoxCollisionAlgorithm.cpp
+  btSimulationIslandManager.cpp
+  btManifoldResult.cpp
+  btInternalEdgeUtility.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btHashedSimplePairCache.cpp
+  btGhostObject.cpp
+  btEmptyCollisionAlgorithm.cpp
+  btDefaultCollisionConfiguration.cpp
+  btConvexPlaneCollisionAlgorithm.cpp
+  btConvexConvexAlgorithm.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btConvexConcaveCollisionAlgorithm.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btConvex2dConvex2dAlgorithm.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btCompoundCompoundCollisionAlgorithm.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btCompoundCollisionAlgorithm.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btCollisionWorldImporter.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btCollisionWorld.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btCollisionObject.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\bulletcollision\collisiondispatch\btcollisionobject.cpp(49): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+  btCollisionDispatcher.cpp
+  btBoxBoxDetector.cpp
+  Generating Code...
+  Compiling...
+  btBoxBoxCollisionAlgorithm.cpp
+  btBox2dBox2dCollisionAlgorithm.cpp
+  btActivatingCollisionAlgorithm.cpp
+  btSimpleBroadphase.cpp
+  btQuantizedBvh.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btOverlappingPairCache.cpp
+  btDispatcher.cpp
+  btDbvtBroadphase.cpp
+  btDbvt.cpp
+  btCollisionAlgorithm.cpp
+  btBroadphaseProxy.cpp
+  btAxisSweep3.cpp
+  b3Serializer.cpp
+  b3File.cpp
+  b3DNA.cpp
+  b3Chunk.cpp
+  b3BulletFile.cpp
+  b3GeometryUtil.cpp
+  b3ConvexHullComputer.cpp
+  b3TypedConstraint.cpp
+  Generating Code...
+  Compiling...
+  b3Point2PointConstraint.cpp
+  b3PgsJacobiSolver.cpp
+  b3Generic6DofConstraint.cpp
+  b3FixedConstraint.cpp
+  b3CpuRigidBodyPipeline.cpp
+  b3Vector3.cpp
+  b3Logging.cpp
+  b3AlignedAllocator.cpp
+  b3CpuNarrowPhase.cpp
+  b3ConvexUtility.cpp
+  b3OverlappingPairCache.cpp
+  b3DynamicBvhBroadphase.cpp
+  b3DynamicBvh.cpp
+  cBulletShape.cpp
+  cBulletRigidBody.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  cBulletPhysicsWorld.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  cBulletFactory.cpp
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\src\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\jmc\maingameenginework\bulletphysics\cbulletfactory.cpp(49): warning C4244: 'argument': conversion from 'nPhysics::eShapeType' to 'float', possible loss of data
+  Generating Code...
+  clew.c
+c:\users\jmc\maingameenginework\bulletphysics\src\clew\clew.c(136): warning C4133: 'function': incompatible types - from 'const char *' to 'LPCWSTR'
+btBroadphaseProxy.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  BulletPhysics.vcxproj -> C:\Users\JMC\maingameenginework\Debug\BulletPhysics.lib
